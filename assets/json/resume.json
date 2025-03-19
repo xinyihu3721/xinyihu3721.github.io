@@ -2,12 +2,11 @@
   "basics": {
     "name": "Xinyi Hu",
     "label": "PhD Student",
-    "image": "prof_pic.jpg",
+    "image": "assets/img/prof_pic.jpg",
     "email": "xhu07@bu.edu",
     "url": "https://xinyihu3721.github.io",
-    "summary": "PhD Student at Boston University focusing on Algorithmic and Statistical Modeling, Machine Learning",
+    "summary": "I am a PhD student at Boston University, focusing on algorithms and sequential decision-making. My research interests lie in bandit problems and efficient exploration in reinforcement learning.",
     "location": {
-      "address": "N/A",
       "postalCode": "02134",
       "city": "Boston",
       "countryCode": "US",
@@ -33,23 +32,39 @@
   },
   "work": [
     {
-      "name": "Boston University",
-      "position": "PhD Student",
-      "url": "https://www.bu.edu/hic/profile/xinyi-hu/",
-      "highlights": ["Research in algorithms and sequential decision-making", "Bandit problems and efficient exploration in reinforcement learning"]
+      "name": "N/A",
+      "position": "N/A", 
+      "url": "N/A",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "summary": "N/A",
+      "highlights": [
+        "N/A"
+      ]
     }
   ],
   "volunteer": [],
   "education": [
     {
+      "institution": "Boston University",
+      "area": "Computer Science",
+      "studyType": "PhD",
+      "startDate": "2023",
+      "endDate": "Present",
+      "score": "4.0",
+      "courses": [
+        "Research in algorithms and sequential decision-making",
+        "Bandit problems and efficient exploration in reinforcement learning"
+      ]
+    },
+    {
       "institution": "Tufts University",
-
-      "area": "Applied Mathematics, Psychology",
+      "area": "Applied Mathematics and Psychology",
       "studyType": "B.S.",
-      "startDate": "N/A",
+      "startDate": "2019",
       "endDate": "2023",
-      "score": "N/A",
-      "courses": ["N/A"]
+      "score": "3.92",
+      "courses": []
     }
   ],
   "awards": [
@@ -65,15 +80,9 @@
   "publications": [],
   "skills": [
     {
-      "name": "Research",
-      "level": "N/A",
-      "icon": "N/A",
+      "name": "N/A",
       "keywords": [
-        "Algorithmic Modeling",
-        "Statistical Modeling",
-        "Machine Learning",
-        "Reinforcement Learning",
-        "Bandit Problems"
+        "N/A"
       ]
     }
   ],
@@ -87,7 +96,7 @@
         "Sequential Decision-Making",
         "Bandit Problems",
         "Reinforcement Learning",
-        "Machine Learning"
+        "Bandit Problems"
       ]
     }
   ],
