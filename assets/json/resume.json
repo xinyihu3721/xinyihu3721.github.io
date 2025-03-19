@@ -20,13 +20,18 @@
       },
       {
         "network": "LinkedIn",
-        "username": "N/A",
-        "url": "N/A"
+        "username": "Xinyi Hu",
+        "url": "https://www.linkedin.com/in/xinyi-hu-0926/"
       },
       {
         "network": "Google Scholar",
-        "username": "N/A",
-        "url": "N/A"
+        "username": "Xinyi Hu",
+        "url": "https://scholar.google.com/citations?user=your_google_scholar_id"
+      },
+      {
+        "network": "GitHub",
+        "username": "xinyihu3721",
+        "url": "https://github.com/xinyihu3721"
       }
     ]
   },
