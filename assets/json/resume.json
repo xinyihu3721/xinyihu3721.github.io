@@ -13,7 +13,23 @@
       "countryCode": "US",
       "region": "Massachusetts"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "Xhu0926Xinyi",
+        "url": "https://twitter.com/Xhu0926Xinyi"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "N/A",
+        "url": "N/A"
+      },
+      {
+        "network": "Google Scholar",
+        "username": "N/A",
+        "url": "N/A"
+      }
+    ]
   },
   "work": [
     {
