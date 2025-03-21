@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-## Teaching Experience
-
 ### Teaching Fellow – Algorithms for Data Science (CDS DS 320)
 **Boston University, Fall 2024**
 
