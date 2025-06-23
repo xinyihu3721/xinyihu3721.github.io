@@ -5,7 +5,7 @@
     "image": "assets/img/prof_pic.jpg",
     "email": "xhu07@bu.edu",
     "url": "https://xinyihu3721.github.io",
-    "summary": "I am a PhD student at Boston University, focusing on algorithms and sequential decision-making. My research interests lie in bandit problems and efficient exploration in reinforcement learning.",
+    "summary": "I am a PhD student at Boston University, focusing on algorithms and sequential decision-making. My research interests lie in bandit problems and efficient multi-agent exploration in reinforcement learning.",
     "location": {
       "postalCode": "02134",
       "city": "Boston",
