@@ -52,14 +52,14 @@
   "education": [
     {
       "institution": "Boston University",
-      "area": "Computer Science",
+      "area": "Computing andData Science",
       "studyType": "PhD",
       "startDate": "2023",
       "endDate": "Present",
       "score": "4.0",
       "courses": [
         "Research in algorithms and sequential decision-making",
-        "Bandit problems and efficient exploration in reinforcement learning"
+        "Bandit problems and efficient multi-agent exploration in reinforcement learning"
       ]
     },
     {
