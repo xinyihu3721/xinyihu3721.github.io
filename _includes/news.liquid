@@ -21,14 +21,20 @@
               {% if item.inline %}
                 {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
               {% else %}
-                {% if item.url %}
-                  {% if item.url contains 'http' %}
-                    <a class="news-title" href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
+                {% if item.redirect == blank %}
+                  {% if item.url %}
+                    {% if item.url contains 'http' %}
+                      <a class="news-title" href="{{ item.url }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
+                    {% else %}
+                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    {% endif %}
                   {% else %}
-                    <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                    <span class="news-title">{{ item.title }}</span>
                   {% endif %}
+                {% elsif item.redirect contains '://' %}
+                  <a class="news-title" href="{{ item.redirect }}" target="_blank" rel="noopener noreferrer">{{ item.title }}</a>
                 {% else %}
-                  <span class="news-title">{{ item.title }}</span>
+                  <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.title }}</a>
                 {% endif %}
               {% endif %}
             </td>
