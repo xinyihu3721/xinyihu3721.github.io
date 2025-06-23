@@ -1,6 +1,7 @@
 ---
 title: "Xinyi HU selected to be 2024 Hariri Institute Graduate Student Fellows!"
 date: 2024-05-15
+url: "https://www.bu.edu/hic/2025/01/22/hariri-gsf-xinyi-hu-uses-data-science-research-to-predict-neurodegenerative-diseases/"
 categories:
   - news
 tags:
