@@ -58,6 +58,15 @@
 - title: Skills
   type: list
   contents:
-    - a
-    - b
+    - Python, Matlab, R, SQL, C++
+    - Database Management
+    - Machine Learning
+    - Reinforcement Learning
+    - Bandit Problems
+    - Multi-Agent Systems
+    - Sequential Decision-Making
+    - Algorithms
+    - Statistics
+    - Optimization
+    - Data Analysis
   

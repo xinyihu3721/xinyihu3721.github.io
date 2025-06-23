@@ -5,7 +5,7 @@
     "image": "assets/img/prof_pic.jpg",
     "email": "xhu07@bu.edu",
     "url": "https://xinyihu3721.github.io",
-    "summary": "I am a PhD student at Boston University, focusing on algorithms and sequential decision-making. My research interests lie in bandit problems and efficient multi-agent exploration in reinforcement learning.",
+    "summary": "I am interested in algorithms and sequential decision-making, particularly bandit problems and efficient exploration in reinforcement learning. My research combines mathematical rigor with practical applications in machine learning.",
     "location": {
       "postalCode": "02134",
       "city": "Boston",
@@ -38,13 +38,12 @@
   "work": [
     {
       "name": [],
-      "position": [], 
+      "position": [],
       "url": [],
       "startDate": [],
       "endDate": [],
       "summary": [],
-      "highlights": [
-      ]
+      "highlights": []
     }
   ],
   "volunteer": [],
@@ -85,9 +84,20 @@
 
   "skills": [
     {
-      "name": [],
-      "keywords": [
-      ]
+      "name": "Programming Languages",
+      "keywords": ["Python", "Matlab", "R", "SQL", "C++"]
+    },
+    {
+      "name": "Machine Learning & AI",
+      "keywords": ["Machine Learning", "Reinforcement Learning", "Bandit Problems", "Multi-Agent Systems"]
+    },
+    {
+      "name": "Data & Analysis",
+      "keywords": ["Database Management", "Data Analysis", "Statistics", "Optimization"]
+    },
+    {
+      "name": "Core Competencies",
+      "keywords": ["Algorithms", "Sequential Decision-Making"]
     }
   ],
   "languages": [],
@@ -95,13 +105,7 @@
     {
       "name": "Research",
       "icon": "N/A",
-      "keywords": [
-        "Algorithms",
-        "Sequential Decision-Making",
-        "Bandit Problems",
-        "Reinforcement Learning",
-        "Bandit Problems"
-      ]
+      "keywords": ["Algorithms", "Sequential Decision-Making", "Bandit Problems", "Reinforcement Learning", "Bandit Problems", "Multi-Agent Systems"]
     }
   ],
   "references": [],

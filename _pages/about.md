@@ -33,4 +33,4 @@ latest_posts:
 - Focus: Algorithmic and Statistical Modeling, Machine Learning
 
 ## Research Interests
-I am interested in algorithms and sequential decision-making, particularly bandit problems and efficient exploration in reinforcement learning. My research combines mathematical rigor with practical applications in machine learning.
+I am interested in algorithms and sequential decision-making, particularly bandit problems and efficient exploration in multi-agent reinforcement learning. My research combines mathematical rigor with practical applications in machine learning.
