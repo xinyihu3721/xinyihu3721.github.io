@@ -35,19 +35,18 @@
       }
     ]
   },
-  // "work": [
-  //   {
-  //     "name": "N/A",
-  //     "position": "N/A", 
-  //     "url": "N/A",
-  //     "startDate": "N/A",
-  //     "endDate": "N/A",
-  //     "summary": "N/A",
-  //     "highlights": [
-  //       "N/A"
-  //     ]
-  //   }
-  // ],
+  "work": [
+    {
+      "name": [],
+      "position": [], 
+      "url": [],
+      "startDate": [],
+      "endDate": [],
+      "summary": [],
+      "highlights": [
+      ]
+    }
+  ],
   "volunteer": [],
   "education": [
     {
@@ -83,11 +82,11 @@
   ],
   "certificates": [],
   "publications": [],
+
   "skills": [
     {
-      "name": "N/A",
+      "name": [],
       "keywords": [
-        "N/A"
       ]
     }
   ],
