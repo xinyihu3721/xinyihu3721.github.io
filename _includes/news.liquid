@@ -28,7 +28,7 @@
                     <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                   {% endif %}
                 {% else %}
-                  <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                  <span class="news-title">{{ item.title }}</span>
                 {% endif %}
               {% endif %}
             </td>
