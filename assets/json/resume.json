@@ -35,17 +35,19 @@
       }
     ]
   },
+  /*
   "work": [
     {
-      "name": [],
-      "position": [],
-      "url": [],
-      "startDate": [],
-      "endDate": [],
-      "summary": [],
-      "highlights": []
+      "name": "N/A",
+      "position": "N/A",
+      "url": "N/A",
+      "startDate": "N/A",
+      "endDate": "N/A",
+      "summary": "N/A",
+      "highlights": "N/A"
     }
   ],
+  */
   "volunteer": [],
   "education": [
     {
